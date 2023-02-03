@@ -4,9 +4,9 @@ const is_qoddi = process.env.IS_QODDI || false;
 
 const dbConfigQoddi = {
 	host: "sql.freedb.tech",
-	user: "freedb_comp2350_main.",
-	password: "&mqe3?aHcPUCezp",
-	database: "freedb_comp2350-week2-A01335052",
+	user: "freedb_junissexy",
+	password: "D2QGXfPpU3aq*aY",
+	database: "freedb_comp2350-week4-A01335052",
 	multipleStatements: false
 };
 
